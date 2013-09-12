@@ -1,0 +1,16 @@
+{
+	  "name": "groupdocs/groupdocs-annotation",
+	  "description": "GroupDocs Annotation is a web-based app for sharing and annotating documents. Invite your colleagues for document review and collaborate real-time. Add comments, exchange ideas, and resolve conflicts. Speed up the review cycle and improve communication channel between teams with GroupDocs Annotation.",
+	  "type": "silverstripe-module",
+	  "homepage": "http://groupdocs.com/apps/annotation",
+	  "keywords": ["silverstripe", "online pdf annotation"],
+	  "license": "BSD-3-Clause",
+	  "authors": [
+	    {"name": "Marketplace Team","email": "support@groupdocs.com"}
+	  ],	  
+	  "require": {
+	    "silverstripe/cms": "~3.0",
+	    "silverstripe/framework": "~3.0"
+	  }
+	}	
+		
