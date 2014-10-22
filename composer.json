@@ -1,6 +1,6 @@
 {
 	  "name": "groupdocs/groupdocs-annotation",
-	  "description": "GroupDocs Annotation is a web-based app for sharing and annotating documents. Invite your colleagues for document review and collaborate real-time. Add comments, exchange ideas, and resolve conflicts. Speed up the review cycle and improve communication channel between teams with GroupDocs Annotation.",
+	  "description": "Annotate PDF, Word, Excel, or image files online with GroupDocs.Annotation from your SilverStripe websites. GroupDocs.Annotation is a web-based app for sharing and annotating documents. Invite colleagues to review documents and collaborate in real-time. Add comments, exchange ideas, and resolve conflicts. Speed up the review cycle and improve communication channel between teams with GroupDocs.Annotation.",
 	  "type": "silverstripe-module",
 	  "homepage": "http://groupdocs.com/apps/annotation",
 	  "keywords": ["silverstripe", "online pdf annotation"],
